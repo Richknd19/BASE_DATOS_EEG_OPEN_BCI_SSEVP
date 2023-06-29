@@ -12,7 +12,8 @@ Además de los archivos de datos EEG, también proporcionamos ejemplos de códig
 
 Te invitamos a explorar nuestra colección, aprovechar los datos y contribuir a la comunidad compartiendo tus propias investigaciones y desarrollos. Juntos, podemos avanzar en nuestra comprensión del cerebro y su funcionamiento, utilizando la poderosa combinación de señales EEG y OpenBCI.
 
-METODO DE ONTENCION SSEVP
+METODO DE OBTENCION USADO : SSEVP, (potenciales evocados visuales en estado estacionario)
+
 Se estimulo la retina del paciente con la ayuda del psicotolboox de MatLab el cual es capaz de generar 4 estimulos con frecuencias diferentes 
 
 
